@@ -1,4 +1,4 @@
-module shorturl
+module github.com/briteming/shorturl
 
 go 1.13
 
